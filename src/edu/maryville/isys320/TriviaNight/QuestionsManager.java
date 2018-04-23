@@ -48,6 +48,8 @@ public class QuestionsManager {
 	
 	public String[] getAnswers() {
 		return answers.toArray(new String[answers.size()]);
+		
 	}
 
 }
+
